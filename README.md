@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SOC homelab — lab 1: SOC monitoring foundation
 
 Personal homelab project built to demonstrate CCNA and Security+ level skills for a SOC analyst role. This is lab 1 of a planned 3-lab portfolio (see roadmap below).

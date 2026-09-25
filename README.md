@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SOC homelab — lab 1: SOC monitoring foundation
 
 Personal homelab project built to demonstrate CCNA and Security+ level skills for a SOC analyst role. This is lab 1 of a planned 3-lab portfolio (see roadmap below).
@@ -53,3 +54,7 @@ This lab is the foundation for a 3-lab portfolio:
 1. **SOC monitoring foundation** (this lab) — Wazuh + Sysmon + simulated attacks
 2. **Network defense layer** — pfSense/OPNsense, VLAN segmentation, Suricata IDS/IPS feeding into this SIEM
 3. **Incident response & threat hunting** — multi-stage simulated breach, full IR report
+=======
+# soc-homelab1
+A homelab showcasing CCNA and Sec+ knowledge
+>>>>>>> e5629d307f2526844b6a8fe01fb2cba0d5e4b500
